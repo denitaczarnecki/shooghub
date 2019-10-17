@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheafahhou.xn----7sbbk6b0acgrc.xn--p1ai/sitemap.xml
